@@ -1,2 +1,2 @@
 Just use,
-`python3 to_do_app_py`
+`python3 to_do_app.py`
