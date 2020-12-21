@@ -1,2 +1,2 @@
-# to-do-app-cli
-Simple to-do app with Python CLI
+Just use,
+`python3 to_do_app_py`
